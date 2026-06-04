@@ -1,0 +1,33 @@
+{
+  "trusted_high": [
+    "reuters.com", "apnews.com", "bbc.com", "bbc.co.uk",
+    "theguardian.com", "npr.org", "pbs.org", "economist.com",
+    "ft.com", "wsj.com", "nytimes.com", "washingtonpost.com",
+    "bloomberg.com", "time.com", "theatlantic.com", "science.org",
+    "nature.com", "nejm.org", "who.int", "un.org", "gov.uk",
+    "europa.eu", "cdc.gov", "nih.gov", "nasa.gov"
+  ],
+  "trusted_medium": [
+    "cnn.com", "nbcnews.com", "abcnews.go.com", "cbsnews.com",
+    "usatoday.com", "politico.com", "thehill.com", "axios.com",
+    "vox.com", "slate.com", "salon.com", "huffpost.com",
+    "independent.co.uk", "telegraph.co.uk", "thetimes.co.uk",
+    "dw.com", "france24.com", "aljazeera.com", "euronews.com",
+    "smh.com.au", "theage.com.au", "cbc.ca", "globeandmail.com"
+  ],
+  "satire": [
+    "theonion.com", "babylonbee.com", "waterfordwhispersnews.com",
+    "newsthump.com", "dailymash.co.uk", "clickhole.com"
+  ],
+  "low_credibility": [
+    "naturalnews.com", "infowars.com", "beforeitsnews.com",
+    "worldnewsdailyreport.com", "empirenews.net", "abcnews.com.co"
+  ],
+  "score_map": {
+    "trusted_high":    95,
+    "trusted_medium":  72,
+    "unknown":         50,
+    "satire":          10,
+    "low_credibility": 5
+  }
+}

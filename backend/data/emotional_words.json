@@ -1,0 +1,16 @@
+{
+  "high_emotion": {
+    "fear": ["terrifying","horrifying","devastating","catastrophic","alarming","shocking","deadly","dangerous","threat","crisis","disaster","collapse","doom","panic","chaos","violence","attack","destroy","kill","murder","death","war","bomb","explosive","terror","threat","danger","risk","warning","emergency"],
+    "anger": ["outrageous","infuriating","disgraceful","shameful","disgusting","despicable","corrupt","criminal","evil","wicked","vile","horrible","terrible","appalling","unacceptable","intolerable","inexcusable","betrayal","lie","liar","fraud","cheat","steal","rob"],
+    "disgust": ["disgusting","revolting","repulsive","sickening","nauseating","filthy","dirty","corrupt","rotten","putrid","vile","despicable","contemptible","loathsome","abhorrent","reprehensible"],
+    "excitement": ["amazing","incredible","unbelievable","stunning","explosive","bombshell","shocking","earth-shattering","mind-blowing","jaw-dropping","sensational","spectacular","extraordinary","historic","unprecedented","breaking"]
+  },
+  "bias_signals": {
+    "political_left": ["progressive","liberal","socialist","leftist","radical left","far-left","woke","social justice","systemic racism","privilege","oppression","intersectional","equity","diversity","inclusion"],
+    "political_right": ["conservative","right-wing","far-right","nationalist","patriot","traditional values","deep state","globalist","elite","establishment","mainstream media","fake news","radical","socialist agenda"],
+    "loaded_language": ["regime","propaganda","indoctrination","brainwash","sheep","sheeple","wake up","truth","they don't want you to know","hidden agenda","cover-up","conspiracy","suppressed","censored","banned","silenced"]
+  },
+  "hedge_words": ["allegedly","reportedly","claimed","purported","apparent","supposed","so-called","unverified","unconfirmed","sources say","according to","it is believed","some say","many believe","experts claim"],
+  "certainty_words": ["definitely","certainly","absolutely","undoubtedly","clearly","obviously","without question","unquestionably","proven","fact","truth","confirmed","established","documented"],
+  "manipulation_patterns": ["you won't believe","they don't want you to know","share before deleted","wake up","open your eyes","do your own research","mainstream media won't tell you","this is what really happened","the truth about","exposed","revealed","shocking truth","what they hide"]
+}

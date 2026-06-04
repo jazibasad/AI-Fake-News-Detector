@@ -1,0 +1,74 @@
+{
+  "fallacies": [
+    {
+      "id": "ad_hominem",
+      "name": "Ad Hominem",
+      "description": "Attacking the person rather than their argument",
+      "patterns": ["is stupid","is an idiot","is a fool","is a liar","is corrupt","can't be trusted","has no credibility","doesn't know what","is incompetent","is a failure","is worthless","is pathetic"],
+      "severity": "high"
+    },
+    {
+      "id": "strawman",
+      "name": "Straw Man",
+      "description": "Misrepresenting someone's argument to make it easier to attack",
+      "patterns": ["so you're saying","what they really mean","what they want is","their real agenda","they want to","they believe that all","they think everyone should"],
+      "severity": "high"
+    },
+    {
+      "id": "false_dichotomy",
+      "name": "False Dichotomy",
+      "description": "Presenting only two options when more exist",
+      "patterns": ["either you","you're either with","there are only two","it's one or the other","you must choose","love it or leave it","if you're not","you have two choices"],
+      "severity": "medium"
+    },
+    {
+      "id": "slippery_slope",
+      "name": "Slippery Slope",
+      "description": "Claiming one event will lead to extreme consequences without justification",
+      "patterns": ["will lead to","next thing you know","it starts with","before long","soon enough","inevitably lead","will eventually","if we allow","once we start","the beginning of the end","first step toward","opens the door to"],
+      "severity": "medium"
+    },
+    {
+      "id": "appeal_to_fear",
+      "name": "Appeal to Fear",
+      "description": "Using fear to manipulate rather than reasoned argument",
+      "patterns": ["be afraid","you should be scared","danger is real","threat to our","your children will","our way of life","existential threat","will destroy","will end","coming for","they're after"],
+      "severity": "high"
+    },
+    {
+      "id": "bandwagon",
+      "name": "Bandwagon",
+      "description": "Arguing something is true because many people believe it",
+      "patterns": ["everyone knows","everyone agrees","everybody believes","most people think","the majority believe","polls show everyone","no one disputes","nobody questions","all experts agree","the whole world knows"],
+      "severity": "low"
+    },
+    {
+      "id": "appeal_to_authority",
+      "name": "False Authority",
+      "description": "Citing an irrelevant or unqualified authority",
+      "patterns": ["scientists say","experts agree","studies show","research proves","doctors confirm","insiders reveal","sources close to","anonymous sources","unnamed officials","industry insiders"],
+      "severity": "low"
+    },
+    {
+      "id": "hasty_generalisation",
+      "name": "Hasty Generalisation",
+      "description": "Drawing broad conclusions from limited examples",
+      "patterns": ["all of them","they all","every single","none of them","always do","never do","these people always","that group never","they're all the same","typical of","characteristic of all"],
+      "severity": "medium"
+    },
+    {
+      "id": "red_herring",
+      "name": "Red Herring",
+      "description": "Introducing irrelevant information to distract",
+      "patterns": ["but what about","never mind that","forget about","instead focus on","the real issue is","we should be talking about","why aren't we discussing","nobody mentions","the media ignores"],
+      "severity": "medium"
+    },
+    {
+      "id": "circular_reasoning",
+      "name": "Circular Reasoning",
+      "description": "Using the conclusion as a premise",
+      "patterns": ["it's true because","we know this because","this proves itself","the evidence is obvious","clearly self-evident","speaks for itself","everyone can see","undeniably true because"],
+      "severity": "medium"
+    }
+  ]
+}
