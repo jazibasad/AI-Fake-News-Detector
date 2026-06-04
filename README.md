@@ -202,6 +202,3 @@ Base URL: `http://localhost:5000`
 
 ---
 
-## License
-
-Add your license here (or replace this section with your project’s actual license file).
